@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca2c0c1b-9776-448f-aa30-e31a71f9bb84" name="Changes" comment="Save data and generate for delivery Options">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="ca2c0c1b-9776-448f-aa30-e31a71f9bb84" name="Changes" comment="Make delivery options interactive">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/data/cart.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/checkout.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/checkout.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +105,7 @@
       <workItem from="1707420544168" duration="5000" />
       <workItem from="1708367664699" duration="649000" />
       <workItem from="1709414042469" duration="870000" />
-      <workItem from="1709663071512" duration="6871000" />
+      <workItem from="1709663071512" duration="7255000" />
     </task>
     <task id="LOCAL-00001" summary="Move addCart to cart.js">
       <option name="closed" value="true" />
@@ -165,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709676799187</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Make delivery options interactive">
+      <option name="closed" value="true" />
+      <created>1709677533638</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709677533638</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +195,7 @@
     <MESSAGE value="Delete products from cart when clicking delete" />
     <MESSAGE value="Delete products from html when clicking delete" />
     <MESSAGE value="Save data and generate for delivery Options" />
-    <option name="LAST_COMMIT_MESSAGE" value="Save data and generate for delivery Options" />
+    <MESSAGE value="Make delivery options interactive" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make delivery options interactive" />
   </component>
 </project>
