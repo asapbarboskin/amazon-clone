@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca2c0c1b-9776-448f-aa30-e31a71f9bb84" name="Changes" comment="Make delivery options interactive">
+    <list default="true" id="ca2c0c1b-9776-448f-aa30-e31a71f9bb84" name="Changes" comment="Regenerate HTMl">
+      <change afterPath="$PROJECT_DIR$/scripts/checkout/orderSummary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/checkout/paymentSummary.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/deliveryOptions.js" beforeDir="false" afterPath="$PROJECT_DIR$/data/deliveryOptions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/products.js" beforeDir="false" afterPath="$PROJECT_DIR$/data/products.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/checkout.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/checkout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/utils/money.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/utils/money.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +77,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts/checkout" />
       <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$/scripts/utils" />
       <recent name="$PROJECT_DIR$/scripts" />
@@ -105,7 +112,8 @@
       <workItem from="1707420544168" duration="5000" />
       <workItem from="1708367664699" duration="649000" />
       <workItem from="1709414042469" duration="870000" />
-      <workItem from="1709663071512" duration="7255000" />
+      <workItem from="1709663071512" duration="8769000" />
+      <workItem from="1709904286817" duration="2566000" />
     </task>
     <task id="LOCAL-00001" summary="Move addCart to cart.js">
       <option name="closed" value="true" />
@@ -171,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709677533638</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Regenerate HTMl">
+      <option name="closed" value="true" />
+      <created>1709677951487</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709677951488</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +212,7 @@
     <MESSAGE value="Delete products from html when clicking delete" />
     <MESSAGE value="Save data and generate for delivery Options" />
     <MESSAGE value="Make delivery options interactive" />
-    <option name="LAST_COMMIT_MESSAGE" value="Make delivery options interactive" />
+    <MESSAGE value="Regenerate HTMl" />
+    <option name="LAST_COMMIT_MESSAGE" value="Regenerate HTMl" />
   </component>
 </project>
