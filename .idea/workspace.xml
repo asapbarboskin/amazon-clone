@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca2c0c1b-9776-448f-aa30-e31a71f9bb84" name="Changes" comment="make payment summary interactive">
-      <change afterPath="$PROJECT_DIR$/tests/moneytest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/tests.html" afterDir="false" />
+    <list default="true" id="ca2c0c1b-9776-448f-aa30-e31a71f9bb84" name="Changes" comment="add jasmine testing framework">
+      <change afterPath="$PROJECT_DIR$/tests-jasmine/moneyTest.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/utils/money.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/utils/money.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests-jasmine/SpecRunner.html" beforeDir="false" afterPath="$PROJECT_DIR$/tests-jasmine/tests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/moneytest.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/moneyTest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/tests/tests.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -75,6 +76,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests-jasmine/lib" />
       <recent name="$PROJECT_DIR$/scripts/checkout" />
       <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$/scripts/utils" />
@@ -111,7 +113,7 @@
       <workItem from="1708367664699" duration="649000" />
       <workItem from="1709414042469" duration="870000" />
       <workItem from="1709663071512" duration="8769000" />
-      <workItem from="1709904286817" duration="3938000" />
+      <workItem from="1709904286817" duration="6588000" />
     </task>
     <task id="LOCAL-00001" summary="Move addCart to cart.js">
       <option name="closed" value="true" />
@@ -201,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709907586175</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add jasmine testing framework">
+      <option name="closed" value="true" />
+      <created>1709908748422</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709908748422</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +239,7 @@
     <MESSAGE value="Regenerate HTMl" />
     <MESSAGE value="Save data and generate HTML for summary" />
     <MESSAGE value="make payment summary interactive" />
-    <option name="LAST_COMMIT_MESSAGE" value="make payment summary interactive" />
+    <MESSAGE value="add jasmine testing framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="add jasmine testing framework" />
   </component>
 </project>
