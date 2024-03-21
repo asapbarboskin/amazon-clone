@@ -47,12 +47,4 @@ To run the tests, follow these steps:
 
 1. Navigate to the `tests` directory.
 2. Open the test files in your code editor.
-3. Run the tests using Jasmine.
-
-## Contributors
-
-- [Your Name]
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+3. Run the tests using Jasmine.3
