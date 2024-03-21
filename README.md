@@ -3,7 +3,10 @@
 This project is a replica of the core functionalities and user experience of the popular e-commerce platform, Amazon. It has been developed using native JavaScript for dynamic interactions, HTML5 for semantic markup, CSS3 for styling, and DOM manipulation for efficient data rendering.
 
 ## Demonstration
-![Uploading image.png…]()
+<img width = 500>![2024-03-21 14 56 35](https://github.com/asapbarboskin/amazon-clone/assets/108778975/380e4d4c-9359-4125-81cb-500582be26c4)</img>
+<img width = 500>![2024-03-21 14 56 54](https://github.com/asapbarboskin/amazon-clone/assets/108778975/e3e01bb6-7868-4926-9d15-bdfaec30547c)</img>
+<img width = 500>![2024-03-21 14 56 58](https://github.com/asapbarboskin/amazon-clone/assets/108778975/010f148c-0348-4966-8254-b2a6ebbc0ebd)</img>
+
 
 ## Features
 
