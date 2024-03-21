@@ -2,6 +2,9 @@
 
 This project is a replica of the core functionalities and user experience of the popular e-commerce platform, Amazon. It has been developed using native JavaScript for dynamic interactions, HTML5 for semantic markup, CSS3 for styling, and DOM manipulation for efficient data rendering.
 
+## Demonstration
+![Uploading image.png…]()
+
 ## Features
 
 - **LocalStorage Integration:** Implemented storing and retrieving data to store the user’s cart in the browser using the localStorage API.
